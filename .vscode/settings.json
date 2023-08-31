@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".env.*": "properties",
+        "filesystem": "cpp",
+        "fstream": "cpp"
+    }
+}
